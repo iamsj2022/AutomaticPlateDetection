@@ -1,5 +1,37 @@
-Automatic Number (License) Plate Recognition
+# Automatic Number (License) Plate Recognition
 ============================================
+
+Automatic number plate recognition (ANPR) is quickly becoming an increasingly popular solution offering organisations effective visitor and car park access management. Several trends and challenges are driving the popularity of this solution, such as increasing vehicle thefts, security concerns as well as the growing interest in smart parking so…
+
+## Web application for recognizing vehicle number plates over GCP
+
+![image](https://user-images.githubusercontent.com/44721153/162661254-370f591a-b8ec-4037-a0af-7f6ab1b670d1.png)
+
+![image](https://user-images.githubusercontent.com/44721153/162661291-91b9afc5-f0c4-440e-9866-fef91ef23972.png)
+
+
+![image](https://user-images.githubusercontent.com/44721153/162661341-4ba72462-599c-49cb-80c6-3f57e0fc6bde.png)
+
+![image](https://user-images.githubusercontent.com/44721153/162661369-e928ae4c-ad99-4252-89b4-397df092c615.png)
+
+
+![image](https://user-images.githubusercontent.com/44721153/162661404-6031bd14-d824-44c3-b24a-b1a8b0509511.png)
+
+![image](https://user-images.githubusercontent.com/44721153/162661733-b38d2655-0b87-4f42-9680-442c2c273578.png)
+
+![image](https://user-images.githubusercontent.com/44721153/162661755-f7588c96-3d15-4472-883d-c5fbe09d91f6.png)
+
+![image](https://user-images.githubusercontent.com/44721153/162661781-1ef67eba-8329-4776-8027-721aa37bf6fe.png)
+
+![image](https://user-images.githubusercontent.com/44721153/162661810-22c00ca8-38d7-4ecc-98e7-44e18cd0252f.png)
+
+
+
+
+
+
+
+
 ![](https://github.com/stevefielding/tensorflow-anpr/raw/master/uploads/parkingLotShortClip.gif)
 Detect vehicle license plates in videos and images using the tensorflow/object_detection API.  
 Train object detection models for license plate detection using TFOD API, with either a single detection stage
@@ -194,3 +226,5 @@ chars_recall - Characters detected in the correct place with the correct content
 chars_precision - Chars detected outside of the correct location, or the location is correct,
                   but the contents are wrong. Divided by the total number of plates predicted (ie true pos plus false pos)
  ````
+
+ 
